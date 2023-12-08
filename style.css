@@ -1,0 +1,198 @@
+body{
+    background-color: gray;
+}
+
+.black{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: -2px;
+}
+.white{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: -2px;
+}
+
+/* start 1st line  */
+.rock1{
+    position: absolute;
+    top: 8px;
+    left: 9px;
+}
+.rock2{
+    position: absolute;
+    top: 10px;
+    left:  708px;
+}
+.knight1{
+    position: absolute;
+    top: 10px;
+    left: 110px;
+}
+.knight2{
+    position: absolute;
+    top: 8px;
+    left:  610px;
+}
+.bishop1{
+    position: absolute;
+    top: 8px;
+    left: 210px;
+}
+.bishop2{
+    position: absolute;
+    top: 6px;
+    left:  508px;
+}
+.king1{
+    position: absolute;
+    top: 7px;
+    left: 307px;
+}
+.king2{
+    position: absolute;
+    top: 8px;
+    left: 408px;
+}
+/* 1st line complete */
+
+
+/* start 2 line  */
+.pawn1{
+    position: absolute;
+    top: 110px;
+    left: 10px;
+}
+.pawn2{
+    position: absolute;
+    top: 110px;
+    left:  708px;
+}
+
+.pawn3{
+    position: absolute;
+    top: 110px;
+    left:  608px;
+}
+.pawn4{
+    position: absolute;
+    top: 110px;
+    left: 110px;
+}
+.pawn5{
+    position: absolute;
+    top: 112px;
+    left: 210px;
+}
+.pawn6{
+    position: absolute;
+    top: 110px;
+    left: 310px;
+}
+.pawn7{
+    position: absolute;
+    top: 110px;
+    left: 410px;
+}
+.pawn8{
+    position: absolute;
+    top: 110px;
+    left: 510px;
+}
+/* complete 2 line images */
+
+
+/* start last line */
+.rock3{
+    position: absolute;
+    top:  710px;
+    left:  705px;
+}
+.rock4{
+    position: absolute;
+    top:  710px;
+    left: 08px;
+}
+
+.knight3{
+    position: absolute;
+    top:  710px;
+    left:  605px;
+}
+.knight4{
+    position: absolute;
+    top:  710px;
+    left: 110px;
+}
+
+.bishop3{
+    position: absolute;
+    top:  710px;
+    left:  505px;
+}
+.bishop4{
+    position: absolute;
+    top:  710px;
+    left: 210px;
+}
+
+.king3{
+    position: absolute;
+    top:  710px;
+    left:  405px;
+}
+.king4{
+    position: absolute;
+    top:  710px;
+    left: 310px;
+}
+/* complete last line */
+
+
+/* start last 2nd line  */
+.pawn9{
+    position: absolute;
+    top:  610px;
+    left: 10px;
+}
+.pawn10{
+    position: absolute;
+    top:  610px;
+    left: 110px;
+}
+
+.pawn11{
+    position: absolute;
+    top:  610px;
+    left: 210px;
+}
+.pawn12{
+    position: absolute;
+    top:  610px;
+    left: 310px;
+}
+.pawn13{
+    position: absolute;
+    top:  610px;
+    left: 410px;
+}
+.pawn14{
+    position: absolute;
+    top:  610px;
+    left: 510px;
+}
+.pawn15{
+    position: absolute;
+    top:  610px;
+    left: 610px;
+}
+.pawn16{
+    position: absolute;
+    top:  610px;
+    left: 710px;
+}
+/* complete 2nd last line  */
